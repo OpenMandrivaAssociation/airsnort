@@ -15,7 +15,6 @@ BuildRequires:	libpcap-devel >= 0.7.1-4mdk
 #Requires:	prism2-utils
 Provides:	Airsnort
 Obsoletes:	Airsnort
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 AirSnort is a wireless LAN (WLAN) tool which cracks encryption
