@@ -1,6 +1,6 @@
 %define	name	airsnort
 %define version 0.2.7e
-%define release %mkrel 4
+%define release %mkrel 6
 
 Summary:	A wireless LAN tool which cracks encryption keys
 Name:		%{name}
