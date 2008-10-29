@@ -1,11 +1,7 @@
-%define	name	airsnort
-%define version 0.2.7e
-%define release %mkrel 6
-
 Summary:	A wireless LAN tool which cracks encryption keys
-Name:		%{name}
-Version:	%{version}
-Release:	%{release}
+Name:		airsnort
+Version:	0.2.7e
+Release:	%mkrel 7
 License:	GPL
 Group:		Networking/Other
 URL:		http://airsnort.shmoo.com/
