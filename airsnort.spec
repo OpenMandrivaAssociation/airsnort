@@ -1,10 +1,10 @@
 Summary:	A wireless LAN tool which cracks encryption keys
 Name:		airsnort
 Version:	0.2.7e
-Release:	%mkrel 8
-License:	GPL
+Release:	%mkrel 9
+License:	GPLv2
 Group:		Networking/Other
-URL:		http://airsnort.shmoo.com/
+URL:		http://sourceforge.net/projects/airsnort/		
 Source:		http://ovh.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.bz2
 BuildRequires:	libgnomeui2-devel
 BuildRequires:	libpcap-devel >= 0.7.1-4mdk
