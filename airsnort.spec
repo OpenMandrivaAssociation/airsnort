@@ -1,7 +1,7 @@
 Summary:	A wireless LAN tool which cracks encryption keys
 Name:		airsnort
 Version:	0.2.7e
-Release:	%mkrel 10
+Release:	11
 License:	GPLv2
 Group:		Networking/Other
 URL:		http://sourceforge.net/projects/airsnort/		
@@ -11,7 +11,6 @@ BuildRequires:	pcap-devel = 1.3.0-2 >= 0.7.1-4mdk
 #Requires:	prism2-utils
 Provides:	Airsnort
 Obsoletes:	Airsnort
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 AirSnort is a wireless LAN (WLAN) tool which cracks encryption
