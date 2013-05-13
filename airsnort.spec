@@ -6,8 +6,8 @@ License:	GPLv2
 Group:		Networking/Other
 URL:		http://sourceforge.net/projects/airsnort/		
 Source:		http://ovh.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.bz2
-BuildRequires:	libgnomeui2-devel
-BuildRequires:	libpcap-devel >= 0.7.1-4mdk
+BuildRequires:	pkgconfig(libgnomeui-2.0)
+BuildRequires:	pcap-devel = 1.3.0-2 >= 0.7.1-4mdk
 #Requires:	prism2-utils
 Provides:	Airsnort
 Obsoletes:	Airsnort
