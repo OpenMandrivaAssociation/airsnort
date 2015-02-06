@@ -1,7 +1,7 @@
 Summary:	A wireless LAN tool which cracks encryption keys
 Name:		airsnort
 Version:	0.2.7e
-Release:	12
+Release:	13
 License:	GPLv2+
 Group:		Networking/Other
 Url:		http://sourceforge.net/projects/airsnort/
