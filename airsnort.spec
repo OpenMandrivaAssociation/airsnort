@@ -4,7 +4,7 @@ Version:	0.2.7e
 Release:	13
 License:	GPLv2+
 Group:		Networking/Other
-Url:		http://sourceforge.net/projects/airsnort/
+Url:		https://sourceforge.net/projects/airsnort/
 Source:		http://ovh.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.bz2
 BuildRequires:	pcap-devel
 BuildRequires:	pkgconfig(libgnomeui-2.0)
