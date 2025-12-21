@@ -6,6 +6,11 @@ License:	GPLv2+
 Group:		Networking/Other
 Url:		https://sourceforge.net/projects/airsnort/
 Source:		http://ovh.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pcap-devel
 BuildRequires:	pkgconfig(libgnomeui-2.0)
 
